@@ -5,7 +5,7 @@ def task_1(array: List[int], target: int) -> List[int]:
     """
     Write your code below
     """
-    pass
+    return []
 
 
 def task_2(number: int) -> int:
